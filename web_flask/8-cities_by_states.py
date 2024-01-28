@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" flast application """
+""" flask application """
 
 from flask import Flask, render_template
 from models import *
